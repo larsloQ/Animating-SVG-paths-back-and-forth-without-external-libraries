@@ -1,7 +1,7 @@
 # Drawing / Animating SVG paths back and forth without external libraries
 
 ## Description
-Demonstate svg line-drawing animations with promises and async functions and without dependencies
+SVG line-drawing animations with promises and async functions and without dependencies
 Async allows to chain animations.
 
 ## Description
