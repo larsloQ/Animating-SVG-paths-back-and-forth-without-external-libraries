@@ -8,7 +8,7 @@ Async allows to chain animations.
 Open the index.html in dist folder to see what is meant.
 
 ## Getting Started
-To build it a used rollup with one simple plugin `rollup-plugin-generate-html-template`. 
+To build it I used rollup with one simple plugin called `rollup-plugin-generate-html-template`. 
 So you might run 
 
 ```yarn add rollup rollup-plugin-generate-html-template```
